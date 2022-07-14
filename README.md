@@ -1,4 +1,10 @@
-<p align="center">
+  ![gitcover](https://user-images.githubusercontent.com/67346814/179091084-fedbaff6-b3d4-4f36-aed9-8fbeaa87f4d4.jpg)
+  
+  
+  
+  <p align="center">
+
+
 
   <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>  
   
