@@ -1,4 +1,4 @@
-![capa_github](https://user-images.githubusercontent.com/67346814/179097614-d8c5b24c-6062-4978-8ac9-f37102350a5f.png)
+![capa_github](https://user-images.githubusercontent.com/67346814/179119048-1ba26bdb-4d0b-4dc2-929e-9e213e38255d.png)
   
   
   
