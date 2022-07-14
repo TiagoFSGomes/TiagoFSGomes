@@ -1,4 +1,5 @@
-  ![gitcover](https://user-images.githubusercontent.com/67346814/179091084-fedbaff6-b3d4-4f36-aed9-8fbeaa87f4d4.jpg)
+  ![gitcover](https://user-images.githubusercontent.com/67346814/179097074-266b5112-b935-4aa9-a904-e551c3956fed.jpg)
+![capa_github](https://user-images.githubusercontent.com/67346814/179097614-d8c5b24c-6062-4978-8ac9-f37102350a5f.png)
   
   
   
