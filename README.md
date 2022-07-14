@@ -9,6 +9,16 @@
   <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>  
   
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FTiago_FSGomes" height="25"/>  
+  
+  <img alt="Twitter URL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>  
+  
+  <img alt="Twitter URL" src="  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>  
+  
+  
+
+  
+  
+  	
 
 </p>
 
