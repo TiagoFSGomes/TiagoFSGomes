@@ -15,7 +15,7 @@
   
 
 <a href="mailto:tigoengenharia@gmail.com">
- <img src="https://img.shields.io/badge/--email?label=E-mail&amp;logo=gmail&amp;style=social" style="max-width: 100%;" height="25"/ /></a>
+ <img src="https://img.shields.io/badge/--email?label=E-mail&amp;logo=gmail&amp;style=social&url=https%3A%2F%2Ftwitter.com%2FTiago_FSGomes" style="max-width: 100%;" height="25"/ /></a>
 
 
 </p>
