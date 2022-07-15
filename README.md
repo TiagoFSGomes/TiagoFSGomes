@@ -26,7 +26,7 @@
  <!--GREETINGS --> 
 
 <!--INTERESTS--> 
-#### Interests:
+## Interests:
  * Embedded Systems
  * Real-Time Operating Systems
  * Hardware Development
@@ -36,7 +36,7 @@
 <!--INTERESTS--> 
 
 <!--SKILLS ANS TOOLS-->
-#### My Skills ans Tools:
+## My Skills ans Tools:
 
 <p align="center">    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  width="60" height="60" style="max-width:100%;"/>
@@ -58,7 +58,7 @@
 <!--SKILLS ANS TOOLS-->   
 
 <!--LEARNING ANS TECNOLOGIES-->  
- #### Learning about Technologies:
+ ## Learning about Technologies:
  <p align="center">    
  <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="60" style="max-width:100%;"/>
  
