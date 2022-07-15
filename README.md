@@ -35,7 +35,24 @@
 
 ### Tools and Technologies
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  width="60" height="60" style="max-width:100%;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="60" height="60" style="max-width:100%;"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="60" height="60" style="max-width:100%;"/>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" style="max-width:100%;"/>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60" height="60" style="max-width:100%;"/>
+
+
+
+          
+          
+
+          
+
+          
             
           
            
