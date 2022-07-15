@@ -17,9 +17,15 @@
 </p>
 
 
- <p align="center">
-    Hello! Welcome to my Github profile.
- </p>
+<p align="center">
+  <strong>Hello! Welcome to my Github profile.<strong> <br />
+</p>
+<p align="center">
+  <strong>My name is Tiago Gomes.<strong> <br />
+</p>
+ 
+  
+ 
 
 
 <div align="center">
