@@ -46,6 +46,13 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60" height="60" style="max-width:100%;"/>
 
  <img src="https://user-images.githubusercontent.com/67346814/179236672-a2b74c07-8609-4e4a-9943-86aabce6d64c.png" width="60" height="60" style="max-width:100%;"/>
+ 
+ <img src="https://user-images.githubusercontent.com/67346814/179240031-977ad9af-e02d-4a8b-a6cb-2fc5dabe55b6.png" width="60" height="60" style="max-width:100%;"/>
+    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="60" height="60" style="max-width:100%;"/>  
+    
+
+          
 
           
           
