@@ -27,12 +27,12 @@
 
 <!--INTERESTS-->
  ## Interests:
- * Embedded Systems
- * Real-Time Operating Systems
- * Hardware Development
- * Embedded Code Generation
- * Electronic Projects
- * Technical Documentation
+ #### ✔️Embedded Systems
+ #### ✔️Real-Time Operating Systems
+ #### ✔️Hardware Development
+ #### ✔️Embedded Code Generation
+ #### ✔️Electronic Projects
+ #### ✔️Technical Documentation
 <!--INTERESTS--> 
 
 <!--SKILLS ANS TOOLS-->
@@ -66,17 +66,20 @@
 </p>
 <!--SKILLS AND TOOLS-->   
 
- <!--STATUS GITHUB-->           
+           
+
+ <!--E-MAIL--> 
+  ## 📩 Feel free to get in contact: 
+   * tigoengenharia@gmail.com  
+   
+ <!--E-MAIL--> 
+ 
+ 
+  <!--STATUS GITHUB-->           
 <div align="center">
 <a href="https://github.com/TiagoFSGomes">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFSGomes&layout=compact&langs_count=7&theme=codeSTACKr"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=TiagoFSGomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
 </p>          
-<!--STATUS GITHUB-->              
-
- <!--E-MAIL--> 
-  ## Feel free to get in contact: 
-   * tigoengenharia@gmail.com  
-   
- <!--E-MAIL--> 
+<!--STATUS GITHUB-->   
