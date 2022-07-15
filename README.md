@@ -29,8 +29,9 @@
 #### Interests:
 <!--INTERESTS--> 
 
-<!--SKILLS ANS TOOLS--> 
- <center>  My Skills ans Tools: </center>
+<!--SKILLS ANS TOOLS-->
+#### My Skills ans Tools:
+
 <p align="center">    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  width="60" height="60" style="max-width:100%;"/>
 
