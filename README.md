@@ -28,7 +28,7 @@
 <!--RESUME -->
   ## 📰About me:
   #### Graduated in Electrical/Electronic Engineering, I have experience in automation, safety systems in industrial machines, electrical and electronic projects and industrial maintenance.
-#### I am an admirer, scholar and developer of embedded systems, software, modeling, performance testing and validation of control, electrical, electronic and mechatronic systems, focusing on the development and improvement of technologies and products that promote the sharing of knowledge and ideas that allow the application and use of engineering in its full state of the art.
+#### I am an admirer, scholar and developer of embedded systems, software, modeling, performance testing and validation of control, electrical, electronic and mechatronic systems, with an emphasis on the development and improvement of technologies and products that foster innovation, constant learning, knowledge sharing and ideas allowing the application and use of engineering in its full state of the art.
 
 <!--RESUME --> 
    
