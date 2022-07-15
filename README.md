@@ -36,7 +36,7 @@
 <!--INTERESTS--> 
 
 <!--SKILLS ANS TOOLS-->
-## My Skills ans Tools:
+## My Skills, Tools and Tecnologies:
 
 <p align="center">    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  width="60" height="60" style="max-width:100%;"/>
@@ -54,21 +54,17 @@
  <img src="https://user-images.githubusercontent.com/67346814/179240031-977ad9af-e02d-4a8b-a6cb-2fc5dabe55b6.png" width="80" height="40" style="max-width:100%;"/>
     
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="60" height="60" style="max-width:100%;"/>
- </p>
-<!--SKILLS ANS TOOLS-->   
-
-<!--LEARNING ANS TECNOLOGIES-->  
- ## Learning about Technologies:
- <p align="center">    
- <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="50" style="max-width:100%;"/>
+ 
+ 
+  <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="50" style="max-width:100%;"/>
  
  <img src="https://user-images.githubusercontent.com/67346814/179244547-28aa3c07-ee87-4c5a-9dd3-03749bd96e7c.jpg" width="50" height="50" style="max-width:100%;"/>
     
 
  <img src="https://user-images.githubusercontent.com/67346814/179244614-22f35129-6b76-4dc4-8c40-3d8acfc65472.jpg" width="100" height="50" style="max-width:100%;"/>
- </p>
-<!--LEARNING ANS TECNOLOGIES-->  
 
+</p>
+<!--SKILLS AND TOOLS-->   
 
  <!--STATUS GITHUB-->           
 <div align="center">
