@@ -25,8 +25,8 @@
 </p>
  <!--GREETINGS --> 
 
-<!--INTERESTS--> 
-## Interests:
+<!--INTERESTS-->
+ ## Interests:
  * Embedded Systems
  * Real-Time Operating Systems
  * Hardware Development
