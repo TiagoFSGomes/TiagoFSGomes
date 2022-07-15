@@ -59,12 +59,12 @@
 <!--LEARNING ANS TECNOLOGIES-->  
  ## Learning about Technologies:
  <p align="center">    
- <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="60" style="max-width:100%;"/>
+ <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="50" style="max-width:100%;"/>
  
- <img src="https://user-images.githubusercontent.com/67346814/179244547-28aa3c07-ee87-4c5a-9dd3-03749bd96e7c.jpg" width="60" height="60" style="max-width:100%;"/>
+ <img src="https://user-images.githubusercontent.com/67346814/179244547-28aa3c07-ee87-4c5a-9dd3-03749bd96e7c.jpg" width="50" height="50" style="max-width:100%;"/>
     
 
- <img src="https://user-images.githubusercontent.com/67346814/179244614-22f35129-6b76-4dc4-8c40-3d8acfc65472.jpg" width="100" height="60" style="max-width:100%;"/>
+ <img src="https://user-images.githubusercontent.com/67346814/179244614-22f35129-6b76-4dc4-8c40-3d8acfc65472.jpg" width="100" height="50" style="max-width:100%;"/>
  </p>
 <!--LEARNING ANS TECNOLOGIES-->  
 
