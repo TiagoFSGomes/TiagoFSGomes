@@ -24,9 +24,9 @@
   <strong>My name is Tiago Gomes.<strong> <br />
 </p>
  
+### Interests:
 
-
-### My Skills ans Tools:
+#### My Skills ans Tools:
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  width="60" height="60" style="max-width:100%;"/>
 
@@ -45,7 +45,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="60" height="60" style="max-width:100%;"/>  
   
     
- ### Learning about Technologies:
+ #### Learning about Technologies:
  
  <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="60" style="max-width:100%;"/>
  
