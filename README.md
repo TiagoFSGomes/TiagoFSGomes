@@ -35,7 +35,7 @@
 
 ### Tools and Technologies
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  height="25"/ />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  height="25"/ /></a>
           
           
 
