@@ -32,7 +32,6 @@
  * Hardware Development
  * Embedded Code Generation
  * Technical Documentation
- * Open Source Projects
 <!--INTERESTS--> 
 
 <!--SKILLS ANS TOOLS-->
