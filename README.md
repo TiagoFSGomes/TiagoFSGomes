@@ -25,8 +25,14 @@
 </p>
  <!--GREETINGS --> 
 
+<!--RESUME -->
+  ## 📰About me:
+
+<!--RESUME --> 
+   
+
 <!--INTERESTS-->
- ## Interests:
+ ## 💡Interests:
  #### ✔️Embedded Systems
  #### ✔️Real-Time Operating Systems
  #### ✔️Hardware Development
@@ -73,6 +79,8 @@
    * tigoengenharia@gmail.com  
    
  <!--E-MAIL--> 
+  
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118602.47018947921!2d-43.526046911210926!3d-21.728837493241684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x989c43e1f85da1%3A0x6236b026b3a0a468!2sJuiz%20de%20Fora%2C%20MG!5e0!3m2!1spt-BR!2sbr!4v1657912961529!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
  
  
   <!--STATUS GITHUB-->           
@@ -83,3 +91,4 @@
 </div>
 </p>          
 <!--STATUS GITHUB-->   
+  
