@@ -31,6 +31,7 @@
  * Real-Time Operating Systems
  * Hardware Development
  * Embedded Code Generation
+ * Electronic Projects
  * Technical Documentation
 <!--INTERESTS--> 
 
