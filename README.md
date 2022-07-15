@@ -24,9 +24,6 @@
   <strong>My name is Tiago Gomes.<strong> <br />
 </p>
  
-  
- 
-
 
 <div align="center">
 <a href="https://github.com/TiagoFSGomes">
@@ -36,7 +33,10 @@
 </div>
 </p>
 
-### Hi there 👋
+### Tools and Technologies
+    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg" />
+          
 
 <!--
 **TiagoFSGomes/TiagoFSGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
