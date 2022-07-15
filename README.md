@@ -78,7 +78,5 @@
  <!--E-MAIL--> 
   ## Feel free to get in contact: 
    * tigoengenharia@gmail.com  
-   <a href="mailto:tigoengenharia@gmail.com">
-     <img src="https://img.shields.io/badge/--email?label=E-mail&amp;logo=gmail&amp;style=social&url" style="max-width: 100%;" height="25"/ /></a>
    
  <!--E-MAIL--> 
