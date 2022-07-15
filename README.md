@@ -47,10 +47,16 @@
     
  ### Learning about Technologies:
  
- <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="60" style="max-width:100%;"/>   
-  
+ <img src="https://user-images.githubusercontent.com/67346814/179241485-4cc38a7c-df87-470c-b2d9-3eed969f1bf8.png" width="90" height="60" style="max-width:100%;"/>
+ 
+
     
 
+
+
+
+    
+    
           
 
 <div align="center">
