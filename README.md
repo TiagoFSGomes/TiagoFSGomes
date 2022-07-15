@@ -25,15 +25,8 @@
 </p>
  
 
-<div align="center">
-<a href="https://github.com/TiagoFSGomes">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFSGomes&layout=compact&langs_count=7&theme=codeSTACKr"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=TiagoFSGomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 
-</div>
-</p>
-
-### Tools and Technologies
+### My Skills ans Tools:
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg"  width="60" height="60" style="max-width:100%;"/>
 
@@ -50,10 +43,22 @@
  <img src="https://user-images.githubusercontent.com/67346814/179240031-977ad9af-e02d-4a8b-a6cb-2fc5dabe55b6.png" width="60" height="60" style="max-width:100%;"/>
     
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="60" height="60" style="max-width:100%;"/>  
+  
+    
+ ### Learning about Technologies:
+    
+  
     
 
           
 
+<div align="center">
+<a href="https://github.com/TiagoFSGomes">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFSGomes&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=TiagoFSGomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+
+</div>
+</p>
           
           
 
