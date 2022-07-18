@@ -86,8 +86,8 @@
   <!--STATUS GITHUB-->           
 <div align="center">
   <a href="https://github.com/TiagoFSGomes">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFSGomes&layout=compact&langs_count=16&theme=codeSTACKr"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TiagoFSGomes&show_icons=true&theme=codeSTACKr"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFSGomes&layout=compact&langs_count=16&theme=codeSTACKr"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=TiagoFSGomes&show_icons=true&theme=codeSTACKr"/>
   
 </div>
 </p>          
