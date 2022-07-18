@@ -88,6 +88,10 @@
 <a href="https://github.com/TiagoFSGomes">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFSGomes&layout=compact&langs_count=7&theme=codeSTACKr"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=TiagoFSGomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoFSGomes)](https://github.com/TiagoFSGomes/github-readme-stats)
+
+
 </div>
 </p>          
 <!--STATUS GITHUB-->   
