@@ -6,11 +6,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tiagogomesengineering/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-                  badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagogomesengineering/" height="25"/ /></a>
-  
-   <!-TWITTER BLOCKED -->  
- <a href="https://twitter.com/Tiago_FSGomes" alt="Twitter">
-   <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FTiago_FSGomes" height="25"/ /></a>
- <!-TWITTER BLOCKED -->  
+ 
  
 <a href="mailto:tigoengenharia@gmail.com">
  <img src="https://img.shields.io/badge/--email?label=E-mail&amp;logo=gmail&amp;style=social&url" style="max-width: 100%;" height="25"/ /></a>
