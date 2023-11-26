@@ -33,6 +33,7 @@
 
 <!--INTERESTS-->
  ## 💡Interests:
+ #### ✔️AI / Machine Learning models / Deep Learning
  #### ✔️Embedded Systems
  #### ✔️Real-Time Operating Systems
  #### ✔️Hardware Development
